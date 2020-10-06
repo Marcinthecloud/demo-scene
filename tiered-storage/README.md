@@ -16,7 +16,7 @@ For more information:
 
 ## Requirements
 
-* AWS CLI configured to properly pull from ECS
+* Docker installed and running
 * An S3 bucket
 
 ### Start a Broker with Tiered Storage Enabled
